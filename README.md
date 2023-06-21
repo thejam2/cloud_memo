@@ -1,7 +1,10 @@
 # cloud_memo
 
-• IaaS : Used by API
+### IaaS
+Used by API
 
-• PaaS: Used by Framework(spring, .Net)
+### PaaS
+Used by Framework(spring, .Net)
 
-• SaaS: Use for Data
+### SaaS
+Use for Data
