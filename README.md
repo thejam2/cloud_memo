@@ -13,3 +13,8 @@ Use for Data
 The Client-Side Discovery Pattern
 
 The Server Side Discovery Pattern
+
+### Registry Pattern
+Self Registry
+
+Third Party Registry
