@@ -8,3 +8,8 @@ Used by Framework(spring, .Net)
 
 ### SaaS
 Use for Data
+
+### discover the service
+The Client-Side Discovery Pattern
+
+The Server Side Discovery Pattern
