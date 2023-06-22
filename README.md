@@ -18,3 +18,10 @@ The Server Side Discovery Pattern
 Self Registry
 
 Third Party Registry
+
+### The Tools for Service Registry
+• Zookeeper
+
+• Consul
+
+• ETCD
